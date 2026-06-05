@@ -1,0 +1,1191 @@
+[
+    {
+      "name": "Reserva",
+      "slug": "reserva",
+      "category": "Moda",
+      "subcategory": "Masculina",
+      "logo": "/logos/reserva.svg"
+    },
+    {
+      "name": "Aramis",
+      "slug": "aramis",
+      "category": "Moda",
+      "subcategory": "Masculina",
+      "logo": "/logos/aramis.svg"
+    },
+    {
+      "name": "Richards",
+      "slug": "richards",
+      "category": "Moda",
+      "subcategory": "Casual",
+      "logo": "/logos/richards.svg"
+    },
+    {
+      "name": "Vila Romana",
+      "slug": "vila-romana",
+      "category": "Moda",
+      "subcategory": "Masculina",
+      "logo": "/logos/vila-romana.svg"
+    },
+    {
+      "name": "VR Collezioni",
+      "slug": "vr-collezioni",
+      "category": "Moda",
+      "subcategory": "Masculina",
+      "logo": "/logos/vr-collezioni.svg"
+    },
+    {
+      "name": "Oriba",
+      "slug": "oriba",
+      "category": "Moda",
+      "subcategory": "Sustentável",
+      "logo": "/logos/oriba.svg"
+    },
+    {
+      "name": "Chico Rei",
+      "slug": "chico-rei",
+      "category": "Moda",
+      "subcategory": "Camisetas",
+      "logo": "/logos/chico-rei.svg"
+    },
+    {
+      "name": "Osklen",
+      "slug": "osklen",
+      "category": "Moda",
+      "subcategory": "Lifestyle",
+      "logo": "/logos/osklen.svg"
+    },
+    {
+      "name": "John John",
+      "slug": "john-john",
+      "category": "Moda",
+      "subcategory": "Premium",
+      "logo": "/logos/john-john.svg"
+    },
+    {
+      "name": "Ellus",
+      "slug": "ellus",
+      "category": "Moda",
+      "subcategory": "Jeans",
+      "logo": "/logos/ellus.svg"
+    },
+  
+    {
+      "name": "Forum",
+      "slug": "forum",
+      "category": "Moda",
+      "subcategory": "Jeans"
+    },
+    {
+      "name": "Colcci",
+      "slug": "colcci",
+      "category": "Moda",
+      "subcategory": "Lifestyle"
+    },
+    {
+      "name": "TNG",
+      "slug": "tng",
+      "category": "Moda"
+    },
+    {
+      "name": "M. Officer",
+      "slug": "m-officer",
+      "category": "Moda"
+    },
+    {
+      "name": "Hering",
+      "slug": "hering",
+      "category": "Moda"
+    },
+    {
+      "name": "Dzarm",
+      "slug": "dzarm",
+      "category": "Moda"
+    },
+    {
+      "name": "Malwee",
+      "slug": "malwee",
+      "category": "Moda"
+    },
+    {
+      "name": "Beagle",
+      "slug": "beagle",
+      "category": "Moda"
+    },
+    {
+      "name": "Hangar 33",
+      "slug": "hangar-33",
+      "category": "Moda"
+    },
+    {
+      "name": "Individual",
+      "slug": "individual",
+      "category": "Moda"
+    },
+  
+    {
+      "name": "Broken Rules",
+      "slug": "broken-rules",
+      "category": "Streetwear"
+    },
+    {
+      "name": "Pace",
+      "slug": "pace",
+      "category": "Streetwear"
+    },
+    {
+      "name": "Piet",
+      "slug": "piet",
+      "category": "Streetwear"
+    },
+    {
+      "name": "Carnan",
+      "slug": "carnan",
+      "category": "Streetwear"
+    },
+    {
+      "name": "Approve",
+      "slug": "approve",
+      "category": "Streetwear"
+    },
+    {
+      "name": "Kings Sneakers",
+      "slug": "kings-sneakers",
+      "category": "Streetwear"
+    },
+    {
+      "name": "High Company",
+      "slug": "high-company",
+      "category": "Streetwear"
+    },
+    {
+      "name": "Class",
+      "slug": "class",
+      "category": "Streetwear"
+    },
+    {
+      "name": "Pace Supply",
+      "slug": "pace-supply",
+      "category": "Streetwear"
+    },
+    {
+      "name": "Baw Clothing",
+      "slug": "baw-clothing",
+      "category": "Streetwear"
+    },
+  
+    {
+      "name": "Reserva Mini",
+      "slug": "reserva-mini",
+      "category": "Infantil"
+    },
+    {
+      "name": "Reserva Ink",
+      "slug": "reserva-ink",
+      "category": "Moda"
+    },
+    {
+      "name": "Foxton",
+      "slug": "foxton",
+      "category": "Moda Masculina"
+    },
+    {
+      "name": "Dudalina",
+      "slug": "dudalina",
+      "category": "Moda Masculina"
+    },
+    {
+      "name": "Brooksfield",
+      "slug": "brooksfield",
+      "category": "Moda Masculina"
+    },
+    {
+      "name": "Crawford",
+      "slug": "crawford",
+      "category": "Moda Masculina"
+    },
+    {
+      "name": "Zapalla",
+      "slug": "zapalla",
+      "category": "Moda Masculina"
+    },
+    {
+      "name": "Siberian",
+      "slug": "siberian",
+      "category": "Moda"
+    },
+    {
+      "name": "Khelf",
+      "slug": "khelf",
+      "category": "Moda"
+    },
+    {
+      "name": "Damyller",
+      "slug": "damyller",
+      "category": "Jeans"
+    },
+  
+    {
+      "name": "Youcom",
+      "slug": "youcom",
+      "category": "Moda Jovem"
+    },
+    {
+      "name": "Redley",
+      "slug": "redley",
+      "category": "Lifestyle"
+    },
+    {
+      "name": "Ahlma",
+      "slug": "ahlma",
+      "category": "Sustentável"
+    },
+    {
+      "name": "Reserva Natural",
+      "slug": "reserva-natural",
+      "category": "Sustentável"
+    },
+    {
+      "name": "Vert Shoes",
+      "slug": "vert-shoes",
+      "category": "Lifestyle"
+    },
+    {
+      "name": "Reserva Simples",
+      "slug": "reserva-simples",
+      "category": "Moda"
+    },
+    {
+      "name": "Misci",
+      "slug": "misci",
+      "category": "Designer"
+    },
+    {
+      "name": "Handred",
+      "slug": "handred",
+      "category": "Designer"
+    },
+    {
+      "name": "Ateliê Mão de Mãe",
+      "slug": "atelie-mao-de-mae",
+      "category": "Designer"
+    },
+    {
+      "name": "Neriage",
+      "slug": "neriage",
+      "category": "Designer"
+    },
+    {
+      "name": "Farm Rio",
+      "slug": "farm-rio",
+      "category": "Moda Feminina",
+      "subcategory": "Lifestyle"
+    },
+    {
+      "name": "Animale",
+      "slug": "animale",
+      "category": "Moda Feminina",
+      "subcategory": "Premium"
+    },
+    {
+      "name": "Le Lis",
+      "slug": "le-lis",
+      "category": "Moda Feminina",
+      "subcategory": "Premium"
+    },
+    {
+      "name": "Shoulder",
+      "slug": "shoulder",
+      "category": "Moda Feminina",
+      "subcategory": "Casual"
+    },
+    {
+      "name": "Maria Filó",
+      "slug": "maria-filo",
+      "category": "Moda Feminina",
+      "subcategory": "Boho"
+    },
+    {
+      "name": "Cantão",
+      "slug": "cantao",
+      "category": "Moda Feminina",
+      "subcategory": "Casual"
+    },
+    {
+      "name": "Dress To",
+      "slug": "dress-to",
+      "category": "Moda Feminina",
+      "subcategory": "Casual"
+    },
+    {
+      "name": "Mob",
+      "slug": "mob",
+      "category": "Moda Feminina",
+      "subcategory": "Contemporânea"
+    },
+    {
+      "name": "Bo.Bô",
+      "slug": "bo-bo",
+      "category": "Moda Feminina",
+      "subcategory": "Premium"
+    },
+    {
+      "name": "A.Brand",
+      "slug": "a-brand",
+      "category": "Moda Feminina",
+      "subcategory": "Contemporânea"
+    },
+    {
+      "name": "TVZ",
+      "slug": "tvz",
+      "category": "Moda Feminina",
+      "subcategory": "Contemporânea"
+    },
+    {
+      "name": "Iorane",
+      "slug": "iorane",
+      "category": "Moda Feminina",
+      "subcategory": "Luxo"
+    },
+    {
+      "name": "Skazi",
+      "slug": "skazi",
+      "category": "Moda Feminina",
+      "subcategory": "Premium"
+    },
+    {
+      "name": "Agilità",
+      "slug": "agilita",
+      "category": "Moda Feminina",
+      "subcategory": "Luxo"
+    },
+    {
+      "name": "Rosa Chá",
+      "slug": "rosa-cha",
+      "category": "Moda Feminina",
+      "subcategory": "Resort"
+    },
+    {
+      "name": "Mixed",
+      "slug": "mixed",
+      "category": "Moda Feminina",
+      "subcategory": "Luxo"
+    },
+    {
+      "name": "NK Store",
+      "slug": "nk-store",
+      "category": "Moda Feminina",
+      "subcategory": "Designer"
+    },
+    {
+      "name": "Carol Bassi",
+      "slug": "carol-bassi",
+      "category": "Moda Feminina",
+      "subcategory": "Luxo"
+    },
+    {
+      "name": "Litt",
+      "slug": "litt",
+      "category": "Moda Feminina",
+      "subcategory": "Contemporânea"
+    },
+    {
+      "name": "Tufi Duek",
+      "slug": "tufi-duek",
+      "category": "Moda Feminina",
+      "subcategory": "Designer"
+    },
+    {
+      "name": "PatBO",
+      "slug": "patbo",
+      "category": "Moda Feminina",
+      "subcategory": "Luxo"
+    },
+    {
+      "name": "Garnús",
+      "slug": "garnus",
+      "category": "Moda Feminina",
+      "subcategory": "Designer"
+    },
+    {
+      "name": "Lilly Sarti",
+      "slug": "lilly-sarti",
+      "category": "Moda Feminina",
+      "subcategory": "Luxo"
+    },
+    {
+      "name": "Martha Medeiros",
+      "slug": "martha-medeiros",
+      "category": "Moda Feminina",
+      "subcategory": "Luxo"
+    },
+    {
+      "name": "Andrea Bogosian",
+      "slug": "andrea-bogosian",
+      "category": "Moda Feminina",
+      "subcategory": "Designer"
+    },
+    {
+      "name": "Gloria Coelho",
+      "slug": "gloria-coelho",
+      "category": "Moda Feminina",
+      "subcategory": "Designer"
+    },
+    {
+      "name": "Reinaldo Lourenço",
+      "slug": "reinaldo-lourenco",
+      "category": "Moda Feminina",
+      "subcategory": "Designer"
+    },
+    {
+      "name": "Lino Villaventura",
+      "slug": "lino-villaventura",
+      "category": "Moda Feminina",
+      "subcategory": "Alta Costura"
+    },
+    {
+      "name": "Cris Barros",
+      "slug": "cris-barros",
+      "category": "Moda Feminina",
+      "subcategory": "Luxo"
+    },
+    {
+      "name": "Lança Perfume",
+      "slug": "lanca-perfume",
+      "category": "Moda Feminina",
+      "subcategory": "Fashion"
+    },
+    {
+      "name": "My Favorite Things",
+      "slug": "my-favorite-things",
+      "category": "Moda Feminina",
+      "subcategory": "Fashion"
+    },
+    {
+      "name": "Amissima",
+      "slug": "amissima",
+      "category": "Moda Feminina",
+      "subcategory": "Contemporânea"
+    },
+    {
+      "name": "Pop Up Store",
+      "slug": "pop-up-store",
+      "category": "Moda Feminina",
+      "subcategory": "Casual"
+    },
+    {
+      "name": "Open",
+      "slug": "open",
+      "category": "Moda Feminina",
+      "subcategory": "Casual"
+    },
+    {
+      "name": "Loft 747",
+      "slug": "loft-747",
+      "category": "Moda Feminina",
+      "subcategory": "Contemporânea"
+    },
+    {
+      "name": "Canal",
+      "slug": "canal",
+      "category": "Moda Feminina",
+      "subcategory": "Casual"
+    },
+    {
+      "name": "Oh Boy",
+      "slug": "oh-boy",
+      "category": "Moda Feminina",
+      "subcategory": "Jovem"
+    },
+    {
+      "name": "Sacada",
+      "slug": "sacada",
+      "category": "Moda Feminina",
+      "subcategory": "Contemporânea"
+    },
+    {
+      "name": "Enjoy",
+      "slug": "enjoy",
+      "category": "Moda Feminina",
+      "subcategory": "Casual"
+    },
+    {
+      "name": "Afghan",
+      "slug": "afghan",
+      "category": "Moda Feminina",
+      "subcategory": "Boho"
+    },
+    {
+      "name": "Zinzane",
+      "slug": "zinzane",
+      "category": "Moda Feminina",
+      "subcategory": "Casual"
+    },
+    {
+      "name": "Luiza Barcelos",
+      "slug": "luiza-barcelos",
+      "category": "Moda Feminina",
+      "subcategory": "Premium"
+    },
+    {
+      "name": "M Officer Women",
+      "slug": "m-officer-women",
+      "category": "Moda Feminina",
+      "subcategory": "Jeans"
+    },
+    {
+      "name": "Equus",
+      "slug": "equus",
+      "category": "Moda Feminina",
+      "subcategory": "Jeans"
+    },
+    {
+      "name": "Vide Bula",
+      "slug": "vide-bula",
+      "category": "Moda Feminina",
+      "subcategory": "Casual"
+    },
+    {
+      "name": "Lucidez",
+      "slug": "lucidez",
+      "category": "Moda Feminina",
+      "subcategory": "Contemporânea"
+    },
+    {
+      "name": "Fabulous Agilità",
+      "slug": "fabulous-agilita",
+      "category": "Moda Feminina",
+      "subcategory": "Festa"
+    },
+    {
+      "name": "Alphorria",
+      "slug": "alphorria",
+      "category": "Moda Feminina",
+      "subcategory": "Luxo"
+    },
+    {
+      "name": "Cholet",
+      "slug": "cholet",
+      "category": "Moda Feminina",
+      "subcategory": "Premium"
+    },
+    {
+      "name": "Tig",
+      "slug": "tig",
+      "category": "Moda Feminina",
+      "subcategory": "Designer"
+    }
+  [
+  {
+    "name": "Arezzo",
+    "slug": "arezzo",
+    "category": "Calçados",
+    "subcategory": "Feminino"
+  },
+  {
+    "name": "Schutz",
+    "slug": "schutz",
+    "category": "Calçados",
+    "subcategory": "Premium"
+  },
+  {
+    "name": "Anacapri",
+    "slug": "anacapri",
+    "category": "Calçados",
+    "subcategory": "Casual"
+  },
+  {
+    "name": "Melissa",
+    "slug": "melissa",
+    "category": "Calçados",
+    "subcategory": "Lifestyle"
+  },
+  {
+    "name": "Havaianas",
+    "slug": "havaianas",
+    "category": "Calçados",
+    "subcategory": "Chinelos"
+  },
+  {
+    "name": "Olympikus",
+    "slug": "olympikus",
+    "category": "Calçados",
+    "subcategory": "Esportivo"
+  },
+  {
+    "name": "Usaflex",
+    "slug": "usaflex",
+    "category": "Calçados",
+    "subcategory": "Conforto"
+  },
+  {
+    "name": "Piccadilly",
+    "slug": "piccadilly",
+    "category": "Calçados",
+    "subcategory": "Conforto"
+  },
+  {
+    "name": "Dakota",
+    "slug": "dakota",
+    "category": "Calçados",
+    "subcategory": "Feminino"
+  },
+  {
+    "name": "Moleca",
+    "slug": "moleca",
+    "category": "Calçados",
+    "subcategory": "Feminino"
+  },
+  {
+    "name": "Molekinha",
+    "slug": "molekinha",
+    "category": "Calçados",
+    "subcategory": "Infantil"
+  },
+  {
+    "name": "Molekinho",
+    "slug": "molekinho",
+    "category": "Calçados",
+    "subcategory": "Infantil"
+  },
+  {
+    "name": "Beira Rio",
+    "slug": "beira-rio",
+    "category": "Calçados",
+    "subcategory": "Feminino"
+  },
+  {
+    "name": "Vizzano",
+    "slug": "vizzano",
+    "category": "Calçados",
+    "subcategory": "Feminino"
+  },
+  {
+    "name": "Ferracini",
+    "slug": "ferracini",
+    "category": "Calçados",
+    "subcategory": "Masculino"
+  },
+  {
+    "name": "Democrata",
+    "slug": "democrata",
+    "category": "Calçados",
+    "subcategory": "Masculino"
+  },
+  {
+    "name": "West Coast",
+    "slug": "west-coast",
+    "category": "Calçados",
+    "subcategory": "Casual"
+  },
+  {
+    "name": "Pegada",
+    "slug": "pegada",
+    "category": "Calçados",
+    "subcategory": "Masculino"
+  },
+  {
+    "name": "Cravo & Canela",
+    "slug": "cravo-canela",
+    "category": "Calçados",
+    "subcategory": "Feminino"
+  },
+  {
+    "name": "Jorge Bischoff",
+    "slug": "jorge-bischoff",
+    "category": "Calçados",
+    "subcategory": "Luxo"
+  },
+  {
+    "name": "Carmen Steffens",
+    "slug": "carmen-steffens",
+    "category": "Calçados",
+    "subcategory": "Luxo"
+  },
+  {
+    "name": "Loucos & Santos",
+    "slug": "loucos-santos",
+    "category": "Calçados",
+    "subcategory": "Fashion"
+  },
+  {
+    "name": "Carrano",
+    "slug": "carrano",
+    "category": "Calçados",
+    "subcategory": "Premium"
+  },
+  {
+    "name": "Corso Como",
+    "slug": "corso-como",
+    "category": "Calçados",
+    "subcategory": "Premium"
+  },
+  {
+    "name": "Mr. Cat",
+    "slug": "mr-cat",
+    "category": "Calçados",
+    "subcategory": "Casual"
+  },
+  {
+    "name": "Outer",
+    "slug": "outer",
+    "category": "Calçados",
+    "subcategory": "Couro"
+  },
+  {
+    "name": "Noha",
+    "slug": "noha",
+    "category": "Calçados",
+    "subcategory": "Minimalista"
+  },
+  {
+    "name": "Anatomic Gel",
+    "slug": "anatomic-gel",
+    "category": "Calçados",
+    "subcategory": "Conforto"
+  },
+  {
+    "name": "Qix",
+    "slug": "qix",
+    "category": "Calçados",
+    "subcategory": "Skate"
+  },
+  {
+    "name": "Öus",
+    "slug": "ous",
+    "category": "Calçados",
+    "subcategory": "Skate"
+  },
+  {
+    "name": "Hocks",
+    "slug": "hocks",
+    "category": "Calçados",
+    "subcategory": "Skate"
+  },
+  {
+    "name": "Mad Rats",
+    "slug": "mad-rats",
+    "category": "Calçados",
+    "subcategory": "Skate"
+  },
+  {
+    "name": "Freedom Fog",
+    "slug": "freedom-fog",
+    "category": "Calçados",
+    "subcategory": "Skate"
+  },
+  {
+    "name": "Tesla Footwear",
+    "slug": "tesla-footwear",
+    "category": "Calçados",
+    "subcategory": "Streetwear"
+  },
+  {
+    "name": "Vert",
+    "slug": "vert",
+    "category": "Calçados",
+    "subcategory": "Sustentável"
+  },
+  {
+    "name": "Ahimsa",
+    "slug": "ahimsa",
+    "category": "Calçados",
+    "subcategory": "Vegano"
+  },
+  {
+    "name": "Apuê",
+    "slug": "apue",
+    "category": "Calçados",
+    "subcategory": "Vegano"
+  },
+  {
+    "name": "Insecta Shoes",
+    "slug": "insecta-shoes",
+    "category": "Calçados",
+    "subcategory": "Sustentável"
+  },
+  {
+    "name": "Bibi",
+    "slug": "bibi",
+    "category": "Calçados",
+    "subcategory": "Infantil"
+  },
+  {
+    "name": "Klin",
+    "slug": "klin",
+    "category": "Calçados",
+    "subcategory": "Infantil"
+  },
+  {
+    "name": "Kidy",
+    "slug": "kidy",
+    "category": "Calçados",
+    "subcategory": "Infantil"
+  },
+  {
+    "name": "Ortopé",
+    "slug": "ortope",
+    "category": "Calçados",
+    "subcategory": "Infantil"
+  },
+  {
+    "name": "Pampili",
+    "slug": "pampili",
+    "category": "Calçados",
+    "subcategory": "Infantil"
+  },
+  {
+    "name": "Luelua",
+    "slug": "luelua",
+    "category": "Calçados",
+    "subcategory": "Infantil"
+  },
+  {
+    "name": "Bottero",
+    "slug": "bottero",
+    "category": "Calçados",
+    "subcategory": "Feminino"
+  },
+  {
+    "name": "Via Marte",
+    "slug": "via-marte",
+    "category": "Calçados",
+    "subcategory": "Fashion"
+  },
+  {
+    "name": "Ramarim",
+    "slug": "ramarim",
+    "category": "Calçados",
+    "subcategory": "Fashion"
+  },
+  {
+    "name": "Tanara",
+    "slug": "tanara",
+    "category": "Calçados",
+    "subcategory": "Fashion"
+  },
+  {
+    "name": "Quiz",
+    "slug": "quiz",
+    "category": "Calçados",
+    "subcategory": "Feminino"
+  },
+  {
+    "name": "Comfortflex",
+    "slug": "comfortflex",
+    "category": "Calçados",
+    "subcategory": "Conforto"
+  },
+  {
+    "name": "Ferrucci",
+    "slug": "ferrucci",
+    "category": "Calçados",
+    "subcategory": "Premium"
+  },
+    {
+      "name": "Arezzo",
+      "slug": "arezzo",
+      "category": "Calçados",
+      "subcategory": "Feminino"
+    },
+    {
+      "name": "Schutz",
+      "slug": "schutz",
+      "category": "Calçados",
+      "subcategory": "Premium"
+    },
+    {
+      "name": "Anacapri",
+      "slug": "anacapri",
+      "category": "Calçados",
+      "subcategory": "Casual"
+    },
+    {
+      "name": "Melissa",
+      "slug": "melissa",
+      "category": "Calçados",
+      "subcategory": "Lifestyle"
+    },
+    {
+      "name": "Havaianas",
+      "slug": "havaianas",
+      "category": "Calçados",
+      "subcategory": "Chinelos"
+    },
+    {
+      "name": "Olympikus",
+      "slug": "olympikus",
+      "category": "Calçados",
+      "subcategory": "Esportivo"
+    },
+    {
+      "name": "Usaflex",
+      "slug": "usaflex",
+      "category": "Calçados",
+      "subcategory": "Conforto"
+    },
+    {
+      "name": "Piccadilly",
+      "slug": "piccadilly",
+      "category": "Calçados",
+      "subcategory": "Conforto"
+    },
+    {
+      "name": "Dakota",
+      "slug": "dakota",
+      "category": "Calçados",
+      "subcategory": "Feminino"
+    },
+    {
+      "name": "Moleca",
+      "slug": "moleca",
+      "category": "Calçados",
+      "subcategory": "Feminino"
+    },
+    {
+      "name": "Molekinha",
+      "slug": "molekinha",
+      "category": "Calçados",
+      "subcategory": "Infantil"
+    },
+    {
+      "name": "Molekinho",
+      "slug": "molekinho",
+      "category": "Calçados",
+      "subcategory": "Infantil"
+    },
+    {
+      "name": "Beira Rio",
+      "slug": "beira-rio",
+      "category": "Calçados",
+      "subcategory": "Feminino"
+    },
+    {
+      "name": "Vizzano",
+      "slug": "vizzano",
+      "category": "Calçados",
+      "subcategory": "Feminino"
+    },
+    {
+      "name": "Ferracini",
+      "slug": "ferracini",
+      "category": "Calçados",
+      "subcategory": "Masculino"
+    },
+    {
+      "name": "Democrata",
+      "slug": "democrata",
+      "category": "Calçados",
+      "subcategory": "Masculino"
+    },
+    {
+      "name": "West Coast",
+      "slug": "west-coast",
+      "category": "Calçados",
+      "subcategory": "Casual"
+    },
+    {
+      "name": "Pegada",
+      "slug": "pegada",
+      "category": "Calçados",
+      "subcategory": "Masculino"
+    },
+    {
+      "name": "Cravo & Canela",
+      "slug": "cravo-canela",
+      "category": "Calçados",
+      "subcategory": "Feminino"
+    },
+    {
+      "name": "Jorge Bischoff",
+      "slug": "jorge-bischoff",
+      "category": "Calçados",
+      "subcategory": "Luxo"
+    },
+    {
+      "name": "Carmen Steffens",
+      "slug": "carmen-steffens",
+      "category": "Calçados",
+      "subcategory": "Luxo"
+    },
+    {
+      "name": "Loucos & Santos",
+      "slug": "loucos-santos",
+      "category": "Calçados",
+      "subcategory": "Fashion"
+    },
+    {
+      "name": "Carrano",
+      "slug": "carrano",
+      "category": "Calçados",
+      "subcategory": "Premium"
+    },
+    {
+      "name": "Corso Como",
+      "slug": "corso-como",
+      "category": "Calçados",
+      "subcategory": "Premium"
+    },
+    {
+      "name": "Mr. Cat",
+      "slug": "mr-cat",
+      "category": "Calçados",
+      "subcategory": "Casual"
+    },
+    {
+      "name": "Outer",
+      "slug": "outer",
+      "category": "Calçados",
+      "subcategory": "Couro"
+    },
+    {
+      "name": "Noha",
+      "slug": "noha",
+      "category": "Calçados",
+      "subcategory": "Minimalista"
+    },
+    {
+      "name": "Anatomic Gel",
+      "slug": "anatomic-gel",
+      "category": "Calçados",
+      "subcategory": "Conforto"
+    },
+    {
+      "name": "Qix",
+      "slug": "qix",
+      "category": "Calçados",
+      "subcategory": "Skate"
+    },
+    {
+      "name": "Öus",
+      "slug": "ous",
+      "category": "Calçados",
+      "subcategory": "Skate"
+    },
+    {
+      "name": "Hocks",
+      "slug": "hocks",
+      "category": "Calçados",
+      "subcategory": "Skate"
+    },
+    {
+      "name": "Mad Rats",
+      "slug": "mad-rats",
+      "category": "Calçados",
+      "subcategory": "Skate"
+    },
+    {
+      "name": "Freedom Fog",
+      "slug": "freedom-fog",
+      "category": "Calçados",
+      "subcategory": "Skate"
+    },
+    {
+      "name": "Tesla Footwear",
+      "slug": "tesla-footwear",
+      "category": "Calçados",
+      "subcategory": "Streetwear"
+    },
+    {
+      "name": "Vert",
+      "slug": "vert",
+      "category": "Calçados",
+      "subcategory": "Sustentável"
+    },
+    {
+      "name": "Ahimsa",
+      "slug": "ahimsa",
+      "category": "Calçados",
+      "subcategory": "Vegano"
+    },
+    {
+      "name": "Apuê",
+      "slug": "apue",
+      "category": "Calçados",
+      "subcategory": "Vegano"
+    },
+    {
+      "name": "Insecta Shoes",
+      "slug": "insecta-shoes",
+      "category": "Calçados",
+      "subcategory": "Sustentável"
+    },
+    {
+      "name": "Bibi",
+      "slug": "bibi",
+      "category": "Calçados",
+      "subcategory": "Infantil"
+    },
+    {
+      "name": "Klin",
+      "slug": "klin",
+      "category": "Calçados",
+      "subcategory": "Infantil"
+    },
+    {
+      "name": "Kidy",
+      "slug": "kidy",
+      "category": "Calçados",
+      "subcategory": "Infantil"
+    },
+    {
+      "name": "Ortopé",
+      "slug": "ortope",
+      "category": "Calçados",
+      "subcategory": "Infantil"
+    },
+    {
+      "name": "Pampili",
+      "slug": "pampili",
+      "category": "Calçados",
+      "subcategory": "Infantil"
+    },
+    {
+      "name": "Luelua",
+      "slug": "luelua",
+      "category": "Calçados",
+      "subcategory": "Infantil"
+    },
+    {
+      "name": "Bottero",
+      "slug": "bottero",
+      "category": "Calçados",
+      "subcategory": "Feminino"
+    },
+    {
+      "name": "Via Marte",
+      "slug": "via-marte",
+      "category": "Calçados",
+      "subcategory": "Fashion"
+    },
+    {
+      "name": "Ramarim",
+      "slug": "ramarim",
+      "category": "Calçados",
+      "subcategory": "Fashion"
+    },
+    {
+      "name": "Tanara",
+      "slug": "tanara",
+      "category": "Calçados",
+      "subcategory": "Fashion"
+    },
+    {
+      "name": "Quiz",
+      "slug": "quiz",
+      "category": "Calçados",
+      "subcategory": "Feminino"
+    },
+    {
+      "name": "Comfortflex",
+      "slug": "comfortflex",
+      "category": "Calçados",
+      "subcategory": "Conforto"
+    },
+    {
+      "name": "Ferrucci",
+      "slug": "ferrucci",
+      "category": "Calçados",
+      "subcategory": "Premium"
+    }
+  ]
