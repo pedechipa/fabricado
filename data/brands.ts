@@ -1578,462 +1578,513 @@ export const brands: Brand[] = [
             subcategory: "Esportivo",
         },
         {
-          id: "capodarte",
-          name: "Capodarte",
-          category: "Acessórios",
-          
-          founded: 1991,
-          description: "Marca brasileira de bolsas, calçados e acessórios femininos sofisticados.",
-          website: "https://www.capodarte.com.br",
-        },
-        {
-          id: "santa-lolla",
-          name: "Santa Lolla",
-          category: "Acessórios",
-          
-          founded: 2004,
-          description: "Marca de bolsas, calçados e acessórios femininos com forte presença nacional.",
-          website: "https://www.santalolla.com.br",
-        },
-        {
-          id: "luz-da-lua",
-          name: "Luz da Lua",
-          category: "Acessórios",
-          
-          founded: 1989,
-          description: "Especializada em bolsas e acessórios de couro premium.",
-          website: "https://www.luzdalua.com.br",
-        },
-        {
-          id: "le-postiche",
-          name: "Le Postiche",
-          category: "Acessórios",
-          
-          founded: 1978,
-          description: "Tradicional rede brasileira de malas, mochilas e bolsas.",
-          website: "https://www.lepostiche.com.br",
-        },
-        {
-          id: "chenson",
-          name: "Chenson",
-          category: "Acessórios",
-          
-          founded: 1980,
-          description: "Marca conhecida por bolsas femininas acessíveis e funcionais.",
-          website: "https://www.chenson.com.br",
-        },
-        {
-          id: "uncle-k",
-          name: "Uncle K",
-          category: "Acessórios",
-          
-          founded: 1993,
-          description: "Bolsas e acessórios em couro com design urbano.",
-          website: "https://www.unclek.com.br",
-        },
-        {
-          id: "catarina-mina",
-          name: "Catarina Mina",
-          category: "Acessórios",
-          
-          founded: 2008,
-          description: "Marca cearense reconhecida pelo artesanato e transparência produtiva.",
-          website: "https://www.catarinamina.com.br",
-        },
-        {
-          id: "escudero",
-          name: "Escudero",
-          category: "Acessórios",
-          
-          founded: 2015,
-          description: "Marca de bolsas e acessórios de couro feitos no Brasil.",
-          website: "https://www.escudero.com.br",
-        },
-        {
-          id: "adô-atelier",
-          name: "Adô Atelier",
-          category: "Acessórios",
-          
-          founded: 2012,
-          description: "Marca artesanal de bolsas e acessórios autorais.",
-          website: "https://www.adoatelier.com.br",
-        },
-        {
-          id: "fellipe-krein",
-          name: "Fellipe Krein",
-          category: "Acessórios",
-          
-          founded: 2002,
-          description: "Fabricante de bolsas femininas com produção nacional.",
-          website: "https://www.fellipekrein.com.br",
-        },
-        {
-          id: "smartbag",
-          name: "Smartbag",
-          category: "Acessórios",
-          
-          founded: 2008,
-          description: "Marca especializada em bolsas femininas contemporâneas.",
-          website: "https://www.smartbag.com.br",
-        },
-        {
-          id: "rafitthy",
-          name: "Rafitthy",
-          category: "Acessórios",
-          
-          founded: 1995,
-          description: "Bolsas e acessórios femininos produzidos no Brasil.",
-          website: "https://www.rafitthy.com.br",
-        },
-        {
-          id: "macadamia",
-          name: "Macadâmia",
-          category: "Acessórios",
-          
-          founded: 1998,
-          description: "Marca focada em bolsas femininas casuais e elegantes.",
-          website: "https://www.macadamia.com.br",
-        },
-        {
-          id: "linea-bella",
-          name: "Linea Bella",
-          category: "Acessórios",
-          
-          founded: 1992,
-          description: "Marca de bolsas e acessórios femininos.",
-          website: "https://www.lineabella.com.br",
-        },
-        {
-          id: "maria-veronica",
-          name: "Maria Verônica",
-          category: "Acessórios",
-          
-          founded: 2004,
-          description: "Especializada em bolsas de couro e design clássico.",
-          website: "https://www.mariaveronica.com.br",
-        },
-        {
-          id: "viccina",
-          name: "Viccina",
-          category: "Acessórios",
-          
-          founded: 2001,
-          description: "Marca nacional de bolsas e acessórios femininos.",
-          website: "https://www.viccina.com.br",
-        },
-        {
-          id: "biro",
-          name: "Biro",
-          category: "Acessórios",
-          
-          founded: 2007,
-          description: "Marca de bolsas e acessórios com foco em moda feminina.",
-          website: "https://www.biro.com.br",
-        },
-        {
-          id: "wj-acessorios",
-          name: "WJ Acessórios",
-          category: "Acessórios",
-          
-          founded: 1997,
-          description: "Fabricante brasileiro de bolsas e acessórios.",
-          website: "https://www.wjacessorios.com.br",
-        },
-        {
-          id: "birden",
-          name: "Birden",
-          category: "Acessórios",
-          
-          founded: 2016,
-          description: "Marca brasileira de bolsas e acessórios contemporâneos.",
-          website: "https://www.birden.com.br",
-        },
-        {
-          id: "lace-lore",
-          name: "Lace Lore",
-          category: "Acessórios",
-          
-          founded: 2014,
-          description: "Marca autoral focada em bolsas e acessórios femininos.",
-          website: "https://www.lacelore.com.br",
-        },
-        {
-          id: "jorge-bischoff-bags",
-          name: "Jorge Bischoff Bags",
-          category: "Acessórios",
-          
-          founded: 2003,
-          description: "Linha de bolsas premium da marca Jorge Bischoff.",
-          website: "https://www.jorgebischoff.com.br",
-        },
-        {
-          id: "andarella",
-          name: "Andarella",
-          category: "Acessórios",
-          
-          founded: 1979,
-          description: "Marca de bolsas, calçados e acessórios femininos.",
-          website: "https://www.andarella.com.br",
-        },
-        {
-          id: "brizza-arezzo",
-          name: "Brizza Arezzo",
-          category: "Acessórios",
-          
-          founded: 2022,
-          description: "Marca focada em bolsas e acessórios do grupo Arezzo.",
-          website: "https://www.brizza.com.br",
-        },
-        {
-          id: "schutz-bags",
-          name: "Schutz Bags",
-          category: "Acessórios",
-          
-          founded: 1995,
-          description: "Linha de bolsas e acessórios da Schutz.",
-          website: "https://www.schutz.com.br",
-        },
-        {
-          id: "anacapri-bags",
-          name: "Anacapri Bags",
-          category: "Acessórios",
-          
-          founded: 2008,
-          description: "Linha de bolsas e acessórios da Anacapri.",
-          website: "https://www.anacapri.com.br",
-        },
-        {
-          id: "arezzo-bags",
-          name: "Arezzo Bags",
-          category: "Acessórios",
-          
-          founded: 1972,
-          description: "Coleção de bolsas e acessórios da Arezzo.",
-          website: "https://www.arezzo.com.br",
-        },
-        {
-          id: "dumond",
-          name: "Dumond",
-          category: "Acessórios",
-          
-          founded: 1990,
-          description: "Marca de bolsas, calçados e acessórios femininos.",
-          website: "https://www.dumond.com.br",
-        },
-        {
-          id: "carmen-steffens-bags",
-          name: "Carmen Steffens Bags",
-          category: "Acessórios",
-          
-          founded: 1993,
-          description: "Linha premium de bolsas da Carmen Steffens.",
-          website: "https://www.carmensteffens.com.br",
-        },
-        {
-          id: "fellipe-krein-men",
-          name: "FK Men",
-          category: "Acessórios",
-          
-          founded: 2015,
-          description: "Linha masculina de bolsas e mochilas da Fellipe Krein.",
-          website: "https://www.fellipekrein.com.br",
-        },
-        {
-          id: "sestini",
-          name: "Sestini",
-          category: "Acessórios",
-          
-          founded: 1994,
-          description: "Referência nacional em mochilas, malas e acessórios de viagem.",
-          website: "https://www.sestini.com.br",
-        },
-        {
-          id: "yepp",
-          name: "Yepp",
-          category: "Acessórios",
-          
-          founded: 2010,
-          description: "Marca de mochilas e acessórios para o dia a dia.",
-          website: "https://www.yepp.com.br",
-        },
-        {
-          id: "denlex",
-          name: "Denlex",
-          category: "Acessórios",
-          
-          founded: 1985,
-          description: "Tradicional fabricante brasileiro de cintos e acessórios.",
-          website: "https://www.denlex.com.br",
-        },
-        {
-          id: "fasolo",
-          name: "Fasolo",
-          category: "Acessórios",
-          
-          founded: 1917,
-          description: "Marca centenária de cintos, carteiras e acessórios em couro.",
-          website: "https://www.fasolo.com.br",
-        },
-        {
-          id: "andreia-ribeiro",
-          name: "Andreia Ribeiro",
-          category: "Acessórios",
-          
-          founded: 2011,
-          description: "Marca brasileira de bolsas artesanais.",
-          website: "https://www.andreiaribeiro.com.br",
-        },
-        {
-          id: "stash",
-          name: "Stash",
-          category: "Acessórios",
-          
-          founded: 2018,
-          description: "Marca de acessórios utilitários e bolsas urbanas.",
-          website: "https://www.stash.com.br",
-        },
-        {
-          id: "not-me-shoes-bags",
-          name: "Not-Me Bags",
-          category: "Acessórios",
-          
-          founded: 2016,
-          description: "Linha de bolsas da marca brasileira Not-Me.",
-          website: "https://www.notme.com.br",
-        },
-        {
-          id: "ou-bags",
-          name: "OU Bags",
-          category: "Acessórios",
-          
-          founded: 2019,
-          description: "Marca nacional de bolsas minimalistas.",
-          website: "https://www.oubags.com.br",
-        },
-        {
-          id: "vj-acessorios",
-          name: "VJ Acessórios",
-          category: "Acessórios",
-          
-          founded: 2005,
-          description: "Marca brasileira de acessórios femininos.",
-          website: "https://www.vjacessorios.com.br",
-        },
-        {
-          id: "bagaggio",
-          name: "Bagaggio",
-          category: "Acessórios",
-          
-          founded: 1942,
-          description: "Rede especializada em malas, mochilas e acessórios de viagem.",
-          website: "https://www.bagaggio.com.br",
-        },
-        {
-          id: "keep",
-          name: "Keep",
-          category: "Acessórios",
-          
-          founded: 2017,
-          description: "Marca brasileira de mochilas e bolsas contemporâneas.",
-          website: "https://www.keep.com.br",
-        },
-        {
-          id: "usthemp-bags",
-          name: "Usthemp Bags",
-          category: "Acessórios",
-          
-          founded: 2015,
-          description: "Linha sustentável de bolsas e mochilas da Usthemp.",
-          website: "https://www.usthemp.com",
-        },
-        {
-          id: "insecta-bags",
-          name: "Insecta Bags",
-          category: "Acessórios",
-          
-          founded: 2014,
-          description: "Bolsas sustentáveis produzidas com materiais reaproveitados.",
-          website: "https://www.insectashoes.com",
-        },
-        {
-          id: "vert-accessories",
-          name: "Vert Accessories",
-          category: "Acessórios",
-          
-          founded: 2005,
-          description: "Linha de acessórios da marca brasileira Vert.",
-          website: "https://www.veja-store.com",
-        },
-        {
-          id: "mr-cat-acessorios",
-          name: "Mr. Cat Acessórios",
-          category: "Acessórios",
-          
-          founded: 1980,
-          description: "Linha de bolsas e acessórios da Mr. Cat.",
-          website: "https://www.mrcat.com.br",
-        },
-        {
-          id: "outer-bags",
-          name: "Outer Bags",
-          category: "Acessórios",
-          
-          founded: 1988,
-          description: "Linha de mochilas e acessórios da Outer.",
-          website: "https://www.outer.com.br",
-        },
-        {
-          id: "noha-bags",
-          name: "Noha Bags",
-          category: "Acessórios",
-          
-          founded: 2019,
-          description: "Marca brasileira de bolsas minimalistas em couro.",
-          website: "https://www.noha.com.br",
-        },
-        {
-          id: "arezzo-travel",
-          name: "Arezzo Travel",
-          category: "Acessórios",
-          
-          founded: 2023,
-          description: "Linha de malas e acessórios para viagem.",
-          website: "https://www.arezzo.com.br",
-        },
-        {
-          id: "urban-bags-br",
-          name: "Urban Bags",
-          category: "Acessórios",
-          
-          founded: 2018,
-          description: "Marca brasileira de mochilas e bolsas urbanas.",
-          website: "https://www.urbanbags.com.br",
-        },
-        {
-          id: "bolsas-brasil",
-          name: "Bolsas Brasil",
-          category: "Acessórios",
-          
-          founded: 2013,
-          description: "Fabricante nacional de bolsas e acessórios.",
-          website: "https://www.bolsasbrasil.com.br",
-        },
-        {
-          id: "atelier-do-couro",
-          name: "Atelier do Couro",
-          category: "Acessórios",
-          
-          founded: 2009,
-          description: "Produção artesanal de bolsas e acessórios em couro.",
-          website: "https://www.atelierdocouro.com.br",
-        },
-        {
-          id: "couro-fino",
-          name: "Couro Fino",
-          category: "Acessórios",
-          
-          founded: 1996,
-          description: "Marca brasileira de acessórios em couro.",
-          website: "https://www.courofino.com.br"
-        },
+            id: "capodarte",
+            slug: "capodarte",
+            name: "Capodarte",
+            category: "Acessórios",
+            
+            founded: 1991,
+            description: "Marca brasileira de bolsas, calçados e acessórios femininos sofisticados.",
+            website: "https://www.capodarte.com.br",
+          },
+          {
+            id: "santa-lolla",
+            slug: "santa-lolla",
+            name: "Santa Lolla",
+            category: "Acessórios",
+            
+            founded: 2004,
+            description: "Marca de bolsas, calçados e acessórios femininos com forte presença nacional.",
+            website: "https://www.santalolla.com.br",
+          },
+          {
+            id: "luz-da-lua",
+            slug: "luz-da-lua",
+            name: "Luz da Lua",
+            category: "Acessórios",
+            
+            founded: 1989,
+            description: "Especializada em bolsas e acessórios de couro premium.",
+            website: "https://www.luzdalua.com.br",
+          },
+          {
+            id: "le-postiche",
+            slug: "le-postiche",
+            name: "Le Postiche",
+            category: "Acessórios",
+            
+            founded: 1978,
+            description: "Tradicional rede brasileira de malas, mochilas e bolsas.",
+            website: "https://www.lepostiche.com.br",
+          },
+          {
+            id: "chenson",
+            slug: "chenson",
+            name: "Chenson",
+            category: "Acessórios",
+            
+            founded: 1980,
+            description: "Marca conhecida por bolsas femininas acessíveis e funcionais.",
+            website: "https://www.chenson.com.br",
+          },
+          {
+            id: "uncle-k",
+            slug: "uncle-k",
+            name: "Uncle K",
+            category: "Acessórios",
+            
+            founded: 1993,
+            description: "Bolsas e acessórios em couro com design urbano.",
+            website: "https://www.unclek.com.br",
+          },
+          {
+            id: "catarina-mina",
+            slug: "catarina-mina",
+            name: "Catarina Mina",
+            category: "Acessórios",
+            
+            founded: 2008,
+            description: "Marca cearense reconhecida pelo artesanato e transparência produtiva.",
+            website: "https://www.catarinamina.com.br",
+          },
+          {
+            id: "escudero",
+            slug: "escudero",
+            name: "Escudero",
+            category: "Acessórios",
+            
+            founded: 2015,
+            description: "Marca de bolsas e acessórios de couro feitos no Brasil.",
+            website: "https://www.escudero.com.br",
+          },
+          {
+            id: "adô-atelier",
+            slug: "adô-atelier",
+            name: "Adô Atelier",
+            category: "Acessórios",
+            
+            founded: 2012,
+            description: "Marca artesanal de bolsas e acessórios autorais.",
+            website: "https://www.adoatelier.com.br",
+          },
+          {
+            id: "fellipe-krein",
+            slug: "fellipe-krein",
+            name: "Fellipe Krein",
+            category: "Acessórios",
+            
+            founded: 2002,
+            description: "Fabricante de bolsas femininas com produção nacional.",
+            website: "https://www.fellipekrein.com.br",
+          },
+          {
+            id: "smartbag",
+            slug: "smartbag",
+            name: "Smartbag",
+            category: "Acessórios",
+            
+            founded: 2008,
+            description: "Marca especializada em bolsas femininas contemporâneas.",
+            website: "https://www.smartbag.com.br",
+          },
+          {
+            id: "rafitthy",
+            slug: "rafitthy",
+            name: "Rafitthy",
+            category: "Acessórios",
+            
+            founded: 1995,
+            description: "Bolsas e acessórios femininos produzidos no Brasil.",
+            website: "https://www.rafitthy.com.br",
+          },
+          {
+            id: "macadamia",
+            slug: "macadamia",
+            name: "Macadâmia",
+            category: "Acessórios",
+            
+            founded: 1998,
+            description: "Marca focada em bolsas femininas casuais e elegantes.",
+            website: "https://www.macadamia.com.br",
+          },
+          {
+            id: "linea-bella",
+            slug: "linea-bella",
+            name: "Linea Bella",
+            category: "Acessórios",
+            
+            founded: 1992,
+            description: "Marca de bolsas e acessórios femininos.",
+            website: "https://www.lineabella.com.br",
+          },
+          {
+            id: "maria-veronica",
+            slug: "maria-veronica",
+            name: "Maria Verônica",
+            category: "Acessórios",
+            
+            founded: 2004,
+            description: "Especializada em bolsas de couro e design clássico.",
+            website: "https://www.mariaveronica.com.br",
+          },
+          {
+            id: "viccina",
+            slug: "viccina",
+            name: "Viccina",
+            category: "Acessórios",
+            
+            founded: 2001,
+            description: "Marca nacional de bolsas e acessórios femininos.",
+            website: "https://www.viccina.com.br",
+          },
+          {
+            id: "biro",
+            slug: "biro",
+            name: "Biro",
+            category: "Acessórios",
+            
+            founded: 2007,
+            description: "Marca de bolsas e acessórios com foco em moda feminina.",
+            website: "https://www.biro.com.br",
+          },
+          {
+            id: "wj-acessorios",
+            slug: "wj-acessorios",
+            name: "WJ Acessórios",
+            category: "Acessórios",
+            
+            founded: 1997,
+            description: "Fabricante brasileiro de bolsas e acessórios.",
+            website: "https://www.wjacessorios.com.br",
+          },
+          {
+            id: "birden",
+            slug: "birden",
+            name: "Birden",
+            category: "Acessórios",
+            
+            founded: 2016,
+            description: "Marca brasileira de bolsas e acessórios contemporâneos.",
+            website: "https://www.birden.com.br",
+          },
+          {
+            id: "lace-lore",
+            slug: "lace-lore",
+            name: "Lace Lore",
+            category: "Acessórios",
+            
+            founded: 2014,
+            description: "Marca autoral focada em bolsas e acessórios femininos.",
+            website: "https://www.lacelore.com.br",
+          },
+          {
+            id: "jorge-bischoff-bags",
+            slug: "jorge-bischoff-bags",
+            name: "Jorge Bischoff Bags",
+            category: "Acessórios",
+            
+            founded: 2003,
+            description: "Linha de bolsas premium da marca Jorge Bischoff.",
+            website: "https://www.jorgebischoff.com.br",
+          },
+          {
+            id: "andarella",
+            slug: "andarella",
+            name: "Andarella",
+            category: "Acessórios",
+            
+            founded: 1979,
+            description: "Marca de bolsas, calçados e acessórios femininos.",
+            website: "https://www.andarella.com.br",
+          },
+          {
+            id: "brizza-arezzo",
+            slug: "brizza-arezzo",
+            name: "Brizza Arezzo",
+            category: "Acessórios",
+            
+            founded: 2022,
+            description: "Marca focada em bolsas e acessórios do grupo Arezzo.",
+            website: "https://www.brizza.com.br",
+          },
+          {
+            id: "schutz-bags",
+            slug: "schutz-bags",
+            name: "Schutz Bags",
+            category: "Acessórios",
+            
+            founded: 1995,
+            description: "Linha de bolsas e acessórios da Schutz.",
+            website: "https://www.schutz.com.br",
+          },
+          {
+            id: "anacapri-bags",
+            slug: "anacapri-bags",
+            name: "Anacapri Bags",
+            category: "Acessórios",
+            
+            founded: 2008,
+            description: "Linha de bolsas e acessórios da Anacapri.",
+            website: "https://www.anacapri.com.br",
+          },
+          {
+            id: "arezzo-bags",
+            slug: "arezzo-bags",
+            name: "Arezzo Bags",
+            category: "Acessórios",
+            
+            founded: 1972,
+            description: "Coleção de bolsas e acessórios da Arezzo.",
+            website: "https://www.arezzo.com.br",
+          },
+          {
+            id: "dumond",
+            slug: "dumond",
+            name: "Dumond",
+            category: "Acessórios",
+            
+            founded: 1990,
+            description: "Marca de bolsas, calçados e acessórios femininos.",
+            website: "https://www.dumond.com.br",
+          },
+          {
+            id: "carmen-steffens-bags",
+            slug: "carmen-steffens-bags",
+            name: "Carmen Steffens Bags",
+            category: "Acessórios",
+            
+            founded: 1993,
+            description: "Linha premium de bolsas da Carmen Steffens.",
+            website: "https://www.carmensteffens.com.br",
+          },
+          {
+            id: "fellipe-krein-men",
+            slug: "fellipe-krein-men",
+            name: "FK Men",
+            category: "Acessórios",
+            
+            founded: 2015,
+            description: "Linha masculina de bolsas e mochilas da Fellipe Krein.",
+            website: "https://www.fellipekrein.com.br",
+          },
+          {
+            id: "sestini",
+            slug: "sestini",
+            name: "Sestini",
+            category: "Acessórios",
+            
+            founded: 1994,
+            description: "Referência nacional em mochilas, malas e acessórios de viagem.",
+            website: "https://www.sestini.com.br",
+          },
+          {
+            id: "yepp",
+            slug: "yepp",
+            name: "Yepp",
+            category: "Acessórios",
+            
+            founded: 2010,
+            description: "Marca de mochilas e acessórios para o dia a dia.",
+            website: "https://www.yepp.com.br",
+          },
+          {
+            id: "denlex",
+            slug: "denlex",
+            name: "Denlex",
+            category: "Acessórios",
+            
+            founded: 1985,
+            description: "Tradicional fabricante brasileiro de cintos e acessórios.",
+            website: "https://www.denlex.com.br",
+          },
+          {
+            id: "fasolo",
+            slug: "fasolo",
+            name: "Fasolo",
+            category: "Acessórios",
+            
+            founded: 1917,
+            description: "Marca centenária de cintos, carteiras e acessórios em couro.",
+            website: "https://www.fasolo.com.br",
+          },
+          {
+            id: "andreia-ribeiro",
+            slug: "andreia-ribeiro",
+            name: "Andreia Ribeiro",
+            category: "Acessórios",
+            
+            founded: 2011,
+            description: "Marca brasileira de bolsas artesanais.",
+            website: "https://www.andreiaribeiro.com.br",
+          },
+          {
+            id: "stash",
+            slug: "stash",
+            name: "Stash",
+            category: "Acessórios",
+            
+            founded: 2018,
+            description: "Marca de acessórios utilitários e bolsas urbanas.",
+            website: "https://www.stash.com.br",
+          },
+          {
+            id: "not-me-shoes-bags",
+            slug: "not-me-shoes-bags",
+            name: "Not-Me Bags",
+            category: "Acessórios",
+            
+            founded: 2016,
+            description: "Linha de bolsas da marca brasileira Not-Me.",
+            website: "https://www.notme.com.br",
+          },
+          {
+            id: "ou-bags",
+            slug: "ou-bags",
+            name: "OU Bags",
+            category: "Acessórios",
+            
+            founded: 2019,
+            description: "Marca nacional de bolsas minimalistas.",
+            website: "https://www.oubags.com.br",
+          },
+          {
+            id: "vj-acessorios",
+            slug: "vj-acessorios",
+            name: "VJ Acessórios",
+            category: "Acessórios",
+            
+            founded: 2005,
+            description: "Marca brasileira de acessórios femininos.",
+            website: "https://www.vjacessorios.com.br",
+          },
+          {
+            id: "bagaggio",
+            slug: "bagaggio",
+            name: "Bagaggio",
+            category: "Acessórios",
+            
+            founded: 1942,
+            description: "Rede especializada em malas, mochilas e acessórios de viagem.",
+            website: "https://www.bagaggio.com.br",
+          },
+          {
+            id: "keep",
+            slug: "keep",
+            name: "Keep",
+            category: "Acessórios",
+            
+            founded: 2017,
+            description: "Marca brasileira de mochilas e bolsas contemporâneas.",
+            website: "https://www.keep.com.br",
+          },
+          {
+            id: "usthemp-bags",
+            slug: "usthemp-bags",
+            name: "Usthemp Bags",
+            category: "Acessórios",
+            
+            founded: 2015,
+            description: "Linha sustentável de bolsas e mochilas da Usthemp.",
+            website: "https://www.usthemp.com",
+          },
+          {
+            id: "insecta-bags",
+            slug: "insecta-bags",
+            name: "Insecta Bags",
+            category: "Acessórios",
+            
+            founded: 2014,
+            description: "Bolsas sustentáveis produzidas com materiais reaproveitados.",
+            website: "https://www.insectashoes.com",
+          },
+          {
+            id: "vert-accessories",
+            slug: "vert-accessories",
+            name: "Vert Accessories",
+            category: "Acessórios",
+            
+            founded: 2005,
+            description: "Linha de acessórios da marca brasileira Vert.",
+            website: "https://www.veja-store.com",
+          },
+          {
+            id: "mr-cat-acessorios",
+            slug: "mr-cat-acessorios",
+            name: "Mr. Cat Acessórios",
+            category: "Acessórios",
+            
+            founded: 1980,
+            description: "Linha de bolsas e acessórios da Mr. Cat.",
+            website: "https://www.mrcat.com.br",
+          },
+          {
+            id: "outer-bags",
+            slug: "outer-bags",
+            name: "Outer Bags",
+            category: "Acessórios",
+            
+            founded: 1988,
+            description: "Linha de mochilas e acessórios da Outer.",
+            website: "https://www.outer.com.br",
+          },
+          {
+            id: "noha-bags",
+            slug: "noha-bags",
+            name: "Noha Bags",
+            category: "Acessórios",
+            
+            founded: 2019,
+            description: "Marca brasileira de bolsas minimalistas em couro.",
+            website: "https://www.noha.com.br",
+          },
+          {
+            id: "arezzo-travel",
+            slug: "arezzo-travel",
+            name: "Arezzo Travel",
+            category: "Acessórios",
+            
+            founded: 2023,
+            description: "Linha de malas e acessórios para viagem.",
+            website: "https://www.arezzo.com.br",
+          },
+          {
+            id: "urban-bags-br",
+            slug: "urban-bags-br",
+            name: "Urban Bags",
+            category: "Acessórios",
+            
+            founded: 2018,
+            description: "Marca brasileira de mochilas e bolsas urbanas.",
+            website: "https://www.urbanbags.com.br",
+          },
+          {
+            id: "bolsas-brasil",
+            slug: "bolsas-brasil",
+            name: "Bolsas Brasil",
+            category: "Acessórios",
+            
+            founded: 2013,
+            description: "Fabricante nacional de bolsas e acessórios.",
+            website: "https://www.bolsasbrasil.com.br",
+          },
+          {
+            id: "atelier-do-couro",
+            slug: "atelier-do-couro",
+            name: "Atelier do Couro",
+            category: "Acessórios",
+            
+            founded: 2009,
+            description: "Produção artesanal de bolsas e acessórios em couro.",
+            website: "https://www.atelierdocouro.com.br",
+          },
+          {
+            id: "couro-fino",
+            slug: "couro-fino",
+            name: "Couro Fino",
+            category: "Acessórios",
+            
+            founded: 1996,
+            description: "Marca brasileira de acessórios em couro.",
+            website: "https://www.courofino.com.br"
+          },
 ]

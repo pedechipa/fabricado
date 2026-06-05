@@ -10,5 +10,6 @@ export interface Brand {
     rating?: number
     description?: string
     founded?: number,
+    website?: string
     featured?: boolean
   }
