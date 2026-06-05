@@ -2,14 +2,18 @@ export interface Brand {
     id: string
     slug: string
     name: string
-    logo?: string
     category?: string
     subcategory?: string
-    style?: string
-    priceRange?: string
-    rating?: number
+    logo?: string
     description?: string
-    founded?: number,
     website?: string
+    founded?: number
+    country?: string
+    headquarters?: string
+    founders?: string[]
+    style?: string
+    priceRange?: "$" | "$$" | "$$$" | "$$$$"
+    rating?: number
     featured?: boolean
+    tags?: string[]
   }
