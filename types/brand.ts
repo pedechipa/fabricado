@@ -9,5 +9,6 @@ export interface Brand {
     priceRange?: string
     rating?: number
     description?: string
+    founded?: number,
     featured?: boolean
   }
